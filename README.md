@@ -1,1 +1,2 @@
-# ACM_s2_cyber_recruit_Navneeth_Dinukumar_Menon
+My name is Navneeth Dinukumar Menon, I am an S2 student from Computer Science (AI)
+I am very much interested in cyber security with a strong inclination towards red teaming, especially in offensive security and real-world attack simulations. I have a solid understanding of Linux fundamentals and I am actively sharpening my skills through hands-on practice. I have been working on OverTheWire Bandit and completed till Level 16. I enjoy exploring vulnerabilities, solving challenges, and continuously learning through practical experimentation. 
