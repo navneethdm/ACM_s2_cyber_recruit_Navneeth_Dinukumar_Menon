@@ -1,5 +1,5 @@
 In this question, the challenge was to decode the base64 codes of which only one was the right answer and all others were noise. 
 I first decoded each and every base64 code which was given, after which I shortlised the list of possible ones, some of the base64 codes had to be decoded more than once to get the final answer. 
-Finally I utilized the clue which was given (Birth of html) which was related to one of the answers that is TIM BERNERS-LEE. He was the creater of Internet and therefore the birth of HTML. 
+Finally I utilized the clue which was given (Birth of html) which was related to one of the answers that is TIM BERNERS-LEE. He was the creater of Internet and therefore the birth of HTML. It was also one of the base6 codes which had to be decoded the most.
 
 flag{TIM_BERNERS_LEE}
